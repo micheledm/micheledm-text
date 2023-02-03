@@ -1,4 +1,4 @@
-baseURL = 'https://micheledm.github.io/'
+baseURL = 'https://micheledm.text.github.io/'
 languageCode = 'it-it'
 title = 'Brain Repo'
 theme = "anubis"
