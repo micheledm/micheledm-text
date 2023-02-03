@@ -1,0 +1,8 @@
+
+baseURL: "https://micheledm.text.github.io//"
+title: "Michele Di Maio - Brain Repo"
+permalinks:
+  post: /:year/:month/:day/:title/
+params:
+  AuthorName: "Michele Di Maio"
+  theme: "anubis"
