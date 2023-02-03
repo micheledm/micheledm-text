@@ -1,4 +1,4 @@
 baseURL = 'http://micheledm.text.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'it-it'
+title = 'Brain Repo - Michele Di Maio'
 theme = "papermod"
