@@ -1,0 +1,4 @@
+baseURL = 'http://micheledm-text.github.io/'
+languageCode = 'it-it'
+title = 'Brain Repo - Michele Di Maio'
+theme = "archie"
